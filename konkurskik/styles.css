@@ -1,0 +1,46 @@
+header{
+    background-color: #FDFAAA;
+    color: #5BBB77;
+    margin: 10px;
+}
+body{
+    font-family: Verdana;
+    text-align: center;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 3%;
+    margin-right: 3%;
+    background: linear-gradient(to bottom, #FDFAAA, #5BBB77);
+}
+table{
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+}
+th{
+    background-color: #5BBB77;
+    font-size: 16px;
+    height: 40px;
+}
+.prawo{
+    width: 20%;
+    height: 630px;
+}
+.lewo{
+    background-color: #FFA6A6;
+    width: 79%;
+    height: 600px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-left: 0;
+    margin-right: 0;
+}
+.dol{
+    background-color: #5BBB77;
+    color: #FFF555;
+    text-size-adjust: 120%;
+    margin: 15px;
+}
+tr:nth-child(even) {
+    background-color: #FDFAAA;
+}
