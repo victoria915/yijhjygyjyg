@@ -1,0 +1,30 @@
+header{
+    background-color:#409FFF;
+    color:white;
+    text-size-adjust:120%;
+    margin:10px;
+}
+
+body{
+    background-color:#DDEEDD;
+    font-family:tahoma;
+    text-align:center;
+}
+main{
+    text-align:left;
+    background-color: #E4C0A8;
+    width: 30%;
+    height:650px;
+}
+nav{
+    background-color:#FFFFFF;
+    margin:10px;
+    word-spacing:30px;
+}
+
+footer{
+    background-color: #A0A0A0;
+    color:white;
+    text-size-adjust:120%;
+    margin:10px;
+}
